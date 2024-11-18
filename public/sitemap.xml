@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>http://localhost:8000/sitemap/home.xml</loc>
+            <lastmod>2024-09-14T02:38:30+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://localhost:8000/sitemap/tin-tuc.xml</loc>
+            <lastmod>2024-09-14T02:38:30+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://localhost:8000/sitemap/linh-vuc-kinh-doanh.xml</loc>
+            <lastmod>2024-09-14T02:38:30+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://localhost:8000/sitemap/gioi-thieu.xml</loc>
+            <lastmod>2024-09-14T02:38:30+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://localhost:8000/sitemap/lien-he.xml</loc>
+            <lastmod>2024-09-14T02:38:30+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://localhost:8000/sitemap/videos.xml</loc>
+            <lastmod>2024-09-14T02:38:30+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://localhost:8000/sitemap/tuyen-dung.xml</loc>
+            <lastmod>2024-09-14T02:38:30+00:00</lastmod>
+    </sitemap>
+</sitemapindex>
